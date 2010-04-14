@@ -7,10 +7,13 @@ Installation
 ============
 
 	Install cygwin with ruby
+	
+	In your cygwin bash:
     mkdir -p ~/tools
     cd ~/tools
     git clone git://http://github.com/jensjaeger/workingtime.git "wt"
 	echo "alias wt='~/tools/wt/workingtime.rb'" >> ~/.bashrc
+	restart your bash
     
 Usage
 =====
